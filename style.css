@@ -305,6 +305,7 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+    height: auto;
 }
 
 .navbar-brand img[src$=svg] {
@@ -659,7 +660,7 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 2.5em;
 }
 
 .hero-bloc-text-sub {
@@ -677,11 +678,11 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 1.4em;
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    max-width: 32em;
     margin: auto auto auto auto;
 }
 
@@ -771,7 +772,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #ff7a3c;
 }
 
 .tc-white {
